@@ -1,5 +1,5 @@
 @HRMLogin
-Feature: Login to HRM Application
+Feature: Login to HRM Applications
   I want to use this template for HRM Login page
 
   @LoginValidCredentials
